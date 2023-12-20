@@ -1,0 +1,55 @@
+.footer{
+    height: 70vh;
+    width: 100%;
+    background:linear-gradient(rgb(205, 103, 103),rgb(99, 8, 8))
+}
+.footer h1{
+    padding: 15px;
+    color: white;
+    font-size: 50px;
+    letter-spacing: 3px;
+    text-decoration: underline solid orange 4px;
+
+}
+.skill{
+    
+    color: white;
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 2px;
+    
+}
+.skill div{
+    margin: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* import Task3 from './Resume/Navbar/Navbar'
+import Task2 from './Resume/Header/Header'
+import Task4 from './Resume/Section/Section'
+import Task1 from './Resume/Footer/Footer'
+ */
+
+
+/* const App = () => {
+  return (
+    <div>
+       <Task3/>
+       <Task2/>
+       <Task4/>
+       <Task1/>
+    </div>
+  )
+}
+
+export default App */

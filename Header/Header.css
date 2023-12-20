@@ -1,0 +1,17 @@
+.header{
+    height: 90vh;
+    width: 100%;
+    background: url("https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_1280.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.info{
+    font-size: 40px;
+    color: white;
+
+}

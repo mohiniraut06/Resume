@@ -1,0 +1,19 @@
+.Navbar{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    top: 0;
+  
+}
+input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid red;
+    color: white;
+    
+}
